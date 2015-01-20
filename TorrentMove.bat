@@ -1,0 +1,1 @@
+java -jar "C:\Users\My Hoang\Documents\NetBeansProjects\TorrentMove\dist\TorrentMove.jar" "C:\Users\My Hoang\Desktop\[Viettorrent.vn].Coursera - Algorithms Part I.torrent" %1
